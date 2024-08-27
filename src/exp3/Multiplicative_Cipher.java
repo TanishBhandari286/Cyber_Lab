@@ -21,7 +21,7 @@ public class Multiplicative_Cipher {
                     ciphertext = ciphertext + answer;
                 }
             }
-            System.out.println("Ciper: " + ciphertext);
+            System.out.println("Cipher: " + ciphertext);
         }
     }
     private static int gcd(int a, int b) {
